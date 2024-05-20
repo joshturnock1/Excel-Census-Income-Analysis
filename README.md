@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+This project looked at loading an Excel file, cleaning the data and then creating charts, visualizations and reports to look at the data of a census income file.
+
 ### Data Sources
 
 The main data source used for this analysis is the "CensusIncome-Graduate.xlsx" containing information about data results from a census.
